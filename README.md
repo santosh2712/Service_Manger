@@ -1,0 +1,2 @@
+# Service_Manger
+This script is for Checking all services,Stopping Services and Starting services IT Will Stop service in reverse  order and ensure Cluster  is in Maintenance_Mode. Checkpoint of Maintenance_Mode status  will ensure service will not stopped without maintenance mode this will prevent cluster from undesired /Unclean switchover of  nodes while stopping the  services. Apart from it it will give convince for stopping and starting services as these service has count of 13 and there order varies while stopping and starting
