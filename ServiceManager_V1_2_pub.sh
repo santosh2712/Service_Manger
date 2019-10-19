@@ -5,6 +5,7 @@
 # Mail      : santosh.kulkarni4u@gmail.com
 # Phone     : +91-9960708564
 # Version   : 1.2
+# Warrenty  : NO warrenty 
 #--------------------------------------------------------------------------------------
 # Purpose   : This script is for Checking all services,Stopping Services and Starting services  
 #           : IT Will Stop service in reverse  order and ensure Cluster  is in Maintenance_Mode
